@@ -12,11 +12,11 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 
 ## CM3 projects list:
 
-| Project Name:     |      |
+| Project Name:     |   Piunora   |
 | ----------------- | ---- |
-| CM3 Model:        |      |
-| Project Hardware: |      |
-| Project Software: |      |
-| Other Notes:      |      |
+| CM3 Model:        |   Any with WiFi   |
+| Project Hardware: |   Piunora Pro  (https://www.crowdsupply.com/diodes-delight/piunora) |
+| Project Software: |   Linux   |
+| Other Notes:      |   For compatability testing and new hardware designs   |
 
 
