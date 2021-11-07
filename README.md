@@ -20,3 +20,10 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Other Notes:      |      |
 
 
+| Project Name:     | currypi                               |
+| ----------------- | ----                                  |
+| CM3 Model:        | RM116-D8E\*                           |
+| Project Hardware: | https://github.com/devguardio/currypi |
+| Project Software: | |
+| Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
+
