@@ -17,7 +17,7 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | CM3 Model:        | WiFi, eMMC, 4GB+ RAM preferred     |
 | Project Hardware: | Currently the RPi CM4 + LCD    |
 | Project Software: | Raspbian/Linux     |
-| Other Notes:      | Project will be open sourced closer to going on sale, currently it's not public, details and photos can be shared privately     |
+| Other Notes:      | Project will be open sourced closer to going on sale, currently it's not public, details and photos can be shared privately. There is some tease photos here: https://twitter.com/arturo182/status/1364003299083624452     |
 
 
 | Project Name:     | currypi                               |
