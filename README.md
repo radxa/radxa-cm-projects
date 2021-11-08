@@ -12,11 +12,11 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 
 ## CM3 projects list:
 
-| Project Name:     |      |
+| Project Name:     |   K3s ARM cluster   |
 | ----------------- | ---- |
-| CM3 Model:        |      |
-| Project Hardware: |      |
-| Project Software: |      |
-| Other Notes:      |      |
+| CM3 Model:        |   RM116-D8E8 (we don't need wifi)   |
+| Project Hardware: |   6 x Rpi CM4   |
+| Project Software: |   Ubuntu Linux   |
+| Other Notes:      |   Testing Kubernetes on AArch64 micro clusters   |
 
 
