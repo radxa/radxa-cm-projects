@@ -14,9 +14,10 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 
 | Project Name:     |      |
 | ----------------- | ---- |
-| CM3 Model:        |      |
-| Project Hardware: |      |
-| Project Software: |      |
-| Other Notes:      |      |
+| CM3 Model:        | RM116-D1E8W     |
+| Project Hardware: | various boards     |
+| Project Software: | https://www.device.farm, https://github.com/device-farm     |
+| Other Notes:      | DEVICE.FARM is a platform to deploy containerized services to IoT devices, similar to Balena. We need the board for testing before we publish them as supported. |
+
 
 
