@@ -12,11 +12,11 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 
 ## CM3 projects list:
 
-| Project Name:     |      |
+| Project Name:     | OpenWRT support for CM3 + Radxa E23 |
 | ----------------- | ---- |
-| CM3 Model:        |      |
-| Project Hardware: |      |
-| Project Software: |      |
-| Other Notes:      |      |
+| CM3 Model:        | RM116-D1E0 |
+| Project Hardware: | RM116-D1E0 + Radxa E23 |
+| Project Software: | https://openwrt.org/ |
+| Other Notes:      | I would like to port Openwrt on CM3 + Radxa E23 carrier board |
 
 
