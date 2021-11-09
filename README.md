@@ -27,3 +27,11 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Software: | |
 | Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
 
+
+| Project Name:     | OpenHD  air unit                      |
+| ----------------- | ----                                  |
+| CM3 Model:        | MIPI-CSI connection required          |
+| Project Hardware: |                                       |
+| Project Software: | https://github.com/OpenHD/Open.HD     |
+| Other Notes:      | https://www.patreon.com/OpenHD        |
+
