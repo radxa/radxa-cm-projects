@@ -28,6 +28,14 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
 
 
+| Project Name:     | NixOS |
+| ----------------- | ----- |
+| CM3 Model:        | eMMC (>= 32 GB), WiFi (optional)|
+| Project Hardware: | Radxa E23 Dual Ethernet Board |
+| Project Software: | NixOS |
+| Other Notes:      | - |
+
+
 | Project Name:     | sataPi                                                                                                                                                                                                                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CM3 Model:        | any model, but a eMMC one + more ram will help me in future in other projects                                                                                                                                                                                                                                |
