@@ -41,6 +41,7 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Software: | |
 | Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
 
+<<<<<<< HEAD
 
 | Project Name:     | NixOS |
 | ----------------- | ----- |
@@ -56,3 +57,10 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Hardware: | PCB design still in progress                                                                                                                                                                                                                                                                                 |
 | Project Software: | Debian flavoured distros                                                                                                                                                                                                                                                                                     |
 | Other Notes:      | sataPi is a project that aims to fill the empty sata bay slots from a pc case with computing power. Since it is inside a pc, the power will be delivered trough standard conectors in pcs like molex or sata power. Project will be fully opensource, and maybe there will be a kickstarter campaign for it. |
+
+| Project Name:     | Buildroot support for CM3 + Radxa E23 |
+| ----------------- | ---- |
+| CM3 Model:        | RM116-D1E0 |
+| Project Hardware: | RM116-D1E0 + Radxa E23 |
+| Project Software: | https://buildroot.org/ |
+| Other Notes:      | Assuming basic Linux support exists |
