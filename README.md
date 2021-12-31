@@ -14,6 +14,13 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 
 | Project Name:     | TBD     |
 | ----------------- | ---- |
+| CM3 Model:        | RM116-D1E8W     |
+| Project Hardware: | various boards     |
+| Project Software: | https://www.device.farm, https://github.com/device-farm     |
+| Other Notes:      | DEVICE.FARM is a platform to deploy containerized services to IoT devices, similar to Balena. We need the board for testing before we publish them as supported. |
+
+| Project Name:     | TBD     |
+| ----------------- | ---- |
 | CM3 Model:        | WiFi, eMMC, 4GB+ RAM preferred     |
 | Project Hardware: | Currently the RPi CM4 + LCD    |
 | Project Software: | Raspbian/Linux     |
@@ -42,4 +49,3 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Hardware: | PCB design still in progress                                                                                                                                                                                                                                                                                 |
 | Project Software: | Debian flavoured distros                                                                                                                                                                                                                                                                                     |
 | Other Notes:      | sataPi is a project that aims to fill the empty sata bay slots from a pc case with computing power. Since it is inside a pc, the power will be delivered trough standard conectors in pcs like molex or sata power. Project will be fully opensource, and maybe there will be a kickstarter campaign for it. |
-
