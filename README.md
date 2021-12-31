@@ -19,6 +19,13 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Software: | https://www.device.farm, https://github.com/device-farm     |
 | Other Notes:      | DEVICE.FARM is a platform to deploy containerized services to IoT devices, similar to Balena. We need the board for testing before we publish them as supported. |
 
+| Project Name:     | OpenWRT support for CM3 + Radxa E23 |
+| ----------------- | ---- |
+| CM3 Model:        | RM116-D1E0 |
+| Project Hardware: | RM116-D1E0 + Radxa E23 |
+| Project Software: | https://openwrt.org/ |
+| Other Notes:      | I would like to port Openwrt on CM3 + Radxa E23 carrier board |
+
 | Project Name:     | TBD     |
 | ----------------- | ---- |
 | CM3 Model:        | WiFi, eMMC, 4GB+ RAM preferred     |
