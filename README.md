@@ -43,6 +43,13 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Software: | |
 | Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
 
+| Project Name:     |   K3s ARM cluster   |
+| ----------------- | ---- |
+| CM3 Model:        |   RM116-D8E8 (we don't need wifi)   |
+| Project Hardware: |   6 x Rpi CM4   |
+| Project Software: |   Ubuntu Linux   |
+| Other Notes:      |   Testing Kubernetes on AArch64 micro clusters   |
+
 | Project Name:     | Open-hardware driver for MSLA resin printers     |
 | ----------------- | ---- |
 | CM3 Model:        | WiFi, eMMC, 4GB+ RAM preferred, Radxa ROCK3 Compute Module IO Board strongly preferred (as it has LCD breakout)   |
