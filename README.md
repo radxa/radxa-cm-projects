@@ -43,6 +43,13 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Software: | |
 | Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
 
+| Project Name:     | Open-hardware driver for MSLA resin printers     |
+| ----------------- | ---- |
+| CM3 Model:        | WiFi, eMMC, 4GB+ RAM preferred, Radxa ROCK3 Compute Module IO Board strongly preferred (as it has LCD breakout)   |
+| Project Hardware: | Currently the RPi CM4 + LCD    |
+| Project Software: | Raspbian/Linux     |
+| Other Notes:      | The project is currently in experimental state, I am working on Linux driver for current state-of-the-art LCDs featured on resin printers. However, these LCDs use 2x 4-lane MIPI interface, thus I am experimenting with multiplexing MIPI on Rpi CM4 (which sucks). This is why I am reaching out to you - as ROCK3 features 2x 4-lane MIPI! This is a killer feature for such a project. Just to give you context; the resin 3D printing is extremely limited a dominated by Chitusystems. They have terrible closed ecosystem, unlike the open ecosystem available for FDM printers. It is really hard for open project to start, as there is a big obstacle in driving high-resolution LCDs required for these printers. |
+
 | Project Name:     | NixOS |
 | ----------------- | ----- |
 | CM3 Model:        | eMMC (>= 32 GB), WiFi (optional)|
@@ -63,3 +70,4 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Hardware: | RM116-D1E0 + Radxa E23 |
 | Project Software: | https://buildroot.org/ |
 | Other Notes:      | Assuming basic Linux support exists |
+
