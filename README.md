@@ -27,10 +27,19 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Software: | |
 | Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
 
+
 | Project Name:     | NixOS |
 | ----------------- | ----- |
 | CM3 Model:        | eMMC (>= 32 GB), WiFi (optional)|
 | Project Hardware: | Radxa E23 Dual Ethernet Board |
 | Project Software: | NixOS |
 | Other Notes:      | - |
+
+
+| Project Name:     | sataPi                                                                                                                                                                                                                                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CM3 Model:        | any model, but a eMMC one + more ram will help me in future in other projects                                                                                                                                                                                                                                |
+| Project Hardware: | PCB design still in progress                                                                                                                                                                                                                                                                                 |
+| Project Software: | Debian flavoured distros                                                                                                                                                                                                                                                                                     |
+| Other Notes:      | sataPi is a project that aims to fill the empty sata bay slots from a pc case with computing power. Since it is inside a pc, the power will be delivered trough standard conectors in pcs like molex or sata power. Project will be fully opensource, and maybe there will be a kickstarter campaign for it. |
 
