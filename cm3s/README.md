@@ -1,6 +1,6 @@
 ## Apply for Radxa CM3S
 
-Radxa is donating some free [Radxa Compute Module 3 SODIMM](https://docs.radxa.com/compute-module/cm3s) to open source hardware projects.
+Radxa is donating some free [Radxa Compute Module 3S](https://docs.radxa.com/compute-module/cm3s) to open source hardware projects.
 
 ## How to apply
 
