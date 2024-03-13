@@ -1,12 +1,4 @@
-## Apply for Radxa CM5
+# HW Design for Radxa CM5 IO board
 
-Radxa is donating some free [Radxa CM5](https://radxa.com/products/compute-module/cm5) to open source hardware projects.
-
-## How to apply
-
-Send a new PR to this repository on GitHub, append your application table(sort Project Name). Radxa team will review/ask questions/discuss about the project detail. If the project is interesting or welcomed by the community, we will approve it. Radxa Team will contact the developer for the further sample shipping&development etc.
-
-## CM5 projects list:
-
-| Project Name        | CM5 Model     | Hardware(Carrier Board)                                      | Software                                                | Notes                                                        |
-| ------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+- radxa_cm5_io_board_v2200.DSN: io board schematic, use Orcad 16.6 or later to view it. You can download a free copy viewer [here](https://www.orcad.com/downloads/orcad-viewer)(Windows only).
+- radxa_cm5_io_board_v2200.pcb: io board layout, use Pads 2.5VX or later to view it. You can find a free copy viewer [here](https://community.sw.siemens.com/s/article/PADS-Viewers)(Windows only).
