@@ -1,6 +1,6 @@
 ## Apply for Radxa CM3I
 
-Radxa is donating some free [Radxa CMI](https://radxa.com/products/compute-module/cm3i) to open source hardware projects.
+Radxa is donating some free [Radxa CM3I](https://radxa.com/products/compute-module/cm3i) to open source hardware projects.
 
 ## How to apply
 
