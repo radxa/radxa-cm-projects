@@ -11,4 +11,4 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 | Project Name | CM3 Model   | Hardware(Carrier Board)                           | Software                                                           | Notes |
 | ------------ | ----------- | ------------------------------------------------- | ------------------------------------------------------------------ | ----- |
 | Radxa E25    | RM118-D4E32 | [E25 Carrier Board Design](./radxa-e25/README.md) | [OpenWRT](https://https://github.com/ophub/flippy-openwrt-actions) |       |
-|              |             |                                                   |                                                                    |       |
+| Radxa CM3I IO Board  |  | [CM3I IO Board Design](./radxa-cm3i-io-board/README.md) |  |       |
