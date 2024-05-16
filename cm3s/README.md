@@ -1,6 +1,6 @@
 ## Apply for Radxa CM3S
 
-Radxa is donating some free [Radxa CM3S](https://radxa.com/products/compute-module/cm3s) to open source hardware projects.
+Radxa is donating some free [Radxa CM3S](https://rock.sh/cm3s) to open source hardware projects.
 
 ## How to apply
 
