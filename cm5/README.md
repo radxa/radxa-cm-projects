@@ -1,6 +1,6 @@
 ## Apply for Radxa CM5
 
-Radxa is donating some free [Radxa CM5](https://radxa.com/products/compute-module/cm5) to open source hardware projects.
+Radxa is donating some free [Radxa CM5](hhttps://rock.sh/cm5) to open source hardware projects.
 
 ## How to apply
 
