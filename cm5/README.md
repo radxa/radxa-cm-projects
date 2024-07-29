@@ -8,5 +8,4 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 
 ## CM5 projects list:
 
-| Project Name        | CM5 Model     | Hardware(Carrier Board)                                      | Software                                                | Notes                                                        |
-| ------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+ochin_CM4v2 | RM120-D8E64R26 | ochin | https://github.com/ochin-space/ochin-CM4v2
