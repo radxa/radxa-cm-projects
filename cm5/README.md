@@ -8,5 +8,6 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 
 ## CM5 projects list:
 
-| Project Name        | CM5 Model     | Hardware(Carrier Board)                                      | Software                                                | Notes                                                        |
-| ------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| Project Name | CM5 Model                         | Hardware(Carrier Board)             | Software | Notes                                           |
+|--------------|-----------------------------------|-------------------------------------|----------|------------------------------------------------|
+| Argo         | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Custom Raspberry Pi–focused Carrier PCB | Ubuntu/Android      | For testing with custom Raspi-focused Carrier PCB |
