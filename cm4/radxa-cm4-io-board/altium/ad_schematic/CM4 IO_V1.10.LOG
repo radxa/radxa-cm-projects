@@ -1,0 +1,109 @@
+Importer Log Report
+Project : CM4 IO_V1.10.PrjPcb
+
+Section : Document - D:\WMS\ปฦนค\[RC126]CM4_IO_V1.10\[RC126]_V1.10\CM4 IO_V1.10.DSN
+
+    Section : Importing Sheet - 03 Block_Diagram.SchDoc
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+        Unknown object type: 59.
+    EndSection
+
+    Section : Importing Sheet - 04 TYPEC.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 05 UFS.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 06 Audio-CODEC.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 07 Audio SPK.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 08 VCC-Connetor.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 09 High Speed-Connector.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 10 IO-Connector.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 11 Power-DC IN.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 13 HDMI TX_RTC.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 14 ETHERNET.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 15 MicroSD Card.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 16 MIPI DSI TX.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 17 MIPI_CSI_RX.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 18 USB2_USB3.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 19 PCIE.SchDoc
+    EndSection
+
+    Section : Importing Sheet - 12 40PIN_FAN.SchDoc
+    EndSection
+EndSection
